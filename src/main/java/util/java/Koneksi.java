@@ -10,6 +10,6 @@ package util.java;
  */
 public class Koneksi {
 
-
+   njajn
 }
 
