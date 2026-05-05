@@ -9,7 +9,5 @@ package util.java;
  * @author ADVAN
  */
 public class Koneksi {
-
-   njajn
 }
 
